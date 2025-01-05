@@ -1,0 +1,827 @@
+[
+  {
+    "disease": "Breast cancer",
+    "circRNA": "circRNA-000911",
+    "score": 0.9979396462440491
+  },
+  {
+    "disease": "Breast cancer",
+    "circRNA": "hsa_circ_0001667",
+    "score": 0.9978758096694946
+  },
+  {
+    "disease": "Breast cancer",
+    "circRNA": "hsa_circ_0000893",
+    "score": 0.9976089000701904
+  },
+  {
+    "disease": "Breast cancer",
+    "circRNA": "circVRK1",
+    "score": 0.9970253109931946
+  },
+  {
+    "disease": "Breast cancer",
+    "circRNA": "hsa_circ_0000677",
+    "score": 0.9969000816345215
+  },
+  {
+    "disease": "Breast cancer",
+    "circRNA": "hsa_circ_001569",
+    "score": 0.9969000816345215
+  },
+  {
+    "disease": "Breast cancer",
+    "circRNA": "circABCC",
+    "score": 0.9969000816345215
+  },
+  {
+    "disease": "Breast cancer",
+    "circRNA": "hsa_circ_0000732",
+    "score": 0.9968870282173157
+  },
+  {
+    "disease": "Breast cancer",
+    "circRNA": "hsa_circRNA_100914",
+    "score": 0.99680659866333
+  },
+  {
+    "disease": "Breast cancer",
+    "circRNA": "hsa_circ_0023903",
+    "score": 0.99680659866333
+  },
+  {
+    "disease": "Breast cancer",
+    "circRNA": "circPVT1",
+    "score": 0.9962827563285828
+  },
+  {
+    "disease": "Breast cancer",
+    "circRNA": "hsa_circ_0001821",
+    "score": 0.9962827563285828
+  },
+  {
+    "disease": "Breast cancer",
+    "circRNA": "circMED13",
+    "score": 0.9961200952529907
+  },
+  {
+    "disease": "Breast cancer",
+    "circRNA": "hsa_circ_0002874",
+    "score": 0.995661199092865
+  },
+  {
+    "disease": "Breast cancer",
+    "circRNA": "hsa_circ_0001417",
+    "score": 0.995125851154327
+  },
+  {
+    "disease": "Breast cancer",
+    "circRNA": "hsa_circRNA_102682",
+    "score": 0.995112201690674
+  },
+  {
+    "disease": "Breast cancer",
+    "circRNA": "circCRIM1",
+    "score": 0.995112201690674
+  },
+  {
+    "disease": "Breast cancer",
+    "circRNA": "hsa_circ_0005442",
+    "score": 0.995112201690674
+  },
+  {
+    "disease": "Breast cancer",
+    "circRNA": "circDENND4C",
+    "score": 0.9949342608451843
+  },
+  {
+    "disease": "Breast cancer",
+    "circRNA": "hsa_circ_0000284",
+    "score": 0.9948261380195618
+  },
+  {
+    "disease": "Breast cancer",
+    "circRNA": "circHIPK3",
+    "score": 0.9948261380195618
+  },
+  {
+    "disease": "Breast cancer",
+    "circRNA": "circOLA",
+    "score": 0.9945409893989563
+  },
+  {
+    "disease": "Breast cancer",
+    "circRNA": "circAmotl1",
+    "score": 0.9943068623542786
+  },
+  {
+    "disease": "Breast cancer",
+    "circRNA": "hsa_circ_0004214",
+    "score": 0.9943068623542786
+  },
+  {
+    "disease": "Breast cancer",
+    "circRNA": "hsa_circ_100219",
+    "score": 0.9942976832389832
+  },
+  {
+    "disease": "Breast cancer",
+    "circRNA": "hsa_circ_0004619",
+    "score": 0.9942976832389832
+  },
+  {
+    "disease": "Breast cancer",
+    "circRNA": "hsa_circ_0000098",
+    "score": 0.9930807948112488
+  },
+  {
+    "disease": "Breast cancer",
+    "circRNA": "circBRIP",
+    "score": 0.9920463562011719
+  },
+  {
+    "disease": "Breast cancer",
+    "circRNA": "circ-Foxo3",
+    "score": 0.9917746782302856
+  },
+  {
+    "disease": "Breast cancer",
+    "circRNA": "hsa_circ_0000911",
+    "score": 0.9915493726730347
+  },
+  {
+    "disease": "Breast cancer",
+    "circRNA": "hsa_circ_0008945",
+    "score": 0.9901421666145325
+  },
+  {
+    "disease": "Breast cancer",
+    "circRNA": "hsa_circ_0001721",
+    "score": 0.9862542152404785
+  },
+  {
+    "disease": "Breast cancer",
+    "circRNA": "hsa_circ_0092276",
+    "score": 0.9856775999069214
+  },
+  {
+    "disease": "Breast cancer",
+    "circRNA": "hsa_circ_0093859",
+    "score": 0.985005259513855
+  },
+  {
+    "disease": "Breast cancer",
+    "circRNA": "hsa_circ_0000981",
+    "score": 0.9785009026527405
+  },
+  {
+    "disease": "Breast cancer",
+    "circRNA": "circETFA",
+    "score": 0.9782512187957764
+  },
+  {
+    "disease": "Breast cancer",
+    "circRNA": "hsa_circ_0108942",
+    "score": 0.9774912595748901
+  },
+  {
+    "disease": "Breast cancer",
+    "circRNA": "circABCB10",
+    "score": 0.9738710522651672
+  },
+  {
+    "disease": "Breast cancer",
+    "circRNA": "hsa_circ_0008717",
+    "score": 0.9738710522651672
+  },
+  {
+    "disease": "Breast cancer",
+    "circRNA": "hsa_circ_0001283",
+    "score": 0.9721611142158508
+  },
+  {
+    "disease": "Breast cancer",
+    "circRNA": "circRNA-001175",
+    "score": 0.9711154699325562
+  },
+  {
+    "disease": "Breast cancer",
+    "circRNA": "hsa_circ_0086241",
+    "score": 0.9698278903961182
+  },
+  {
+    "disease": "Breast cancer",
+    "circRNA": "hsa_circ_103110",
+    "score": 0.9697437286376953
+  },
+  {
+    "disease": "Breast cancer",
+    "circRNA": "hsa_circ_0004771",
+    "score": 0.9697437286376953
+  },
+  {
+    "disease": "Breast cancer",
+    "circRNA": "hsa_circ_0002113",
+    "score": 0.9683158993721008
+  },
+  {
+    "disease": "Breast cancer",
+    "circRNA": "hsa_circ_0001313",
+    "score": 0.9666474461555481
+  },
+  {
+    "disease": "Breast cancer",
+    "circRNA": "circCCDC66",
+    "score": 0.9666474461555481
+  },
+  {
+    "disease": "Breast cancer",
+    "circRNA": "hsa_circ_0018293",
+    "score": 0.9636286497116089
+  },
+  {
+    "disease": "Breast cancer",
+    "circRNA": "hsa_circ_0085553",
+    "score": 0.9604788422584534
+  },
+  {
+    "disease": "Breast cancer",
+    "circRNA": "hsa_circ_0006528",
+    "score": 0.9589505791664124
+  },
+  {
+    "disease": "Breast cancer",
+    "circRNA": "hsa_circ_0068033",
+    "score": 0.9586033821105957
+  },
+  {
+    "disease": "Breast cancer",
+    "circRNA": "circRNA-001283",
+    "score": 0.9570473432540894
+  },
+  {
+    "disease": "Breast cancer",
+    "circRNA": "hsa_circ_104821",
+    "score": 0.956557035446167
+  },
+  {
+    "disease": "Breast cancer",
+    "circRNA": "hsa_circ_0001875",
+    "score": 0.956557035446167
+  },
+  {
+    "disease": "Breast cancer",
+    "circRNA": "hsa_circ_0003838",
+    "score": 0.9476235508918762
+  },
+  {
+    "disease": "Breast cancer",
+    "circRNA": "hsa_circ_0007534",
+    "score": 0.9345054626464844
+  },
+  {
+    "disease": "Breast cancer",
+    "circRNA": "hsa_circ_0001785",
+    "score": 0.9226333498954773
+  },
+  {
+    "disease": "Breast cancer",
+    "circRNA": "hsa_circ_006054",
+    "score": 0.9155222177505493
+  },
+  {
+    "disease": "Breast cancer",
+    "circRNA": "hsa_circ_0006054",
+    "score": 0.9155222177505493
+  },
+  {
+    "disease": "Breast cancer",
+    "circRNA": "hsa_circ_104689",
+    "score": 0.6365581750869751
+  },
+  {
+    "disease": "Breast cancer",
+    "circRNA": "hsa_circ_0001824",
+    "score": 0.6365581750869751
+  },
+  {
+    "disease": "Breast cancer",
+    "circRNA": "hsa_circ_0001982",
+    "score": 0.3721900284290314
+  },
+  {
+    "disease": "Breast cancer",
+    "circRNA": "Circ_KCNN2",
+    "score": 0.05807036533951759
+  },
+  {
+    "disease": "Breast cancer",
+    "circRNA": "hsa-circRNA5974-1",
+    "score": 0.04615267366170883
+  },
+  {
+    "disease": "Breast cancer",
+    "circRNA": "hsa_circ_0085495",
+    "score": 0.04270649328827858
+  },
+  {
+    "disease": "Breast cancer",
+    "circRNA": "circBCL11B",
+    "score": 0.039554663002491
+  },
+  {
+    "disease": "Breast cancer",
+    "circRNA": "hsa_circ_0058106",
+    "score": 0.03514157235622406
+  },
+  {
+    "disease": "Breast cancer",
+    "circRNA": "hsa_circ_0067531",
+    "score": 0.03097369708120823
+  },
+  {
+    "disease": "Breast cancer",
+    "circRNA": "hsa_circ_0072668",
+    "score": 0.02597563527524471
+  },
+  {
+    "disease": "Breast cancer",
+    "circRNA": "hsa_circ_0087537",
+    "score": 0.02120148576796055
+  },
+  {
+    "disease": "Breast cancer",
+    "circRNA": "hsa_circ_0011946",
+    "score": 0.01663106866180897
+  },
+  {
+    "disease": "Breast cancer",
+    "circRNA": "Circ_R3HDM1",
+    "score": 0.009791514836251736
+  },
+  {
+    "disease": "Breast cancer",
+    "circRNA": "hsa_circRNA_400071",
+    "score": 0.009753691032528877
+  },
+  {
+    "disease": "Breast cancer",
+    "circRNA": "hsa_circRNA_063981",
+    "score": 0.008127559907734394
+  },
+  {
+    "disease": "Breast cancer",
+    "circRNA": "hsa_circ_0041731",
+    "score": 0.006700656842440367
+  },
+  {
+    "disease": "Breast cancer",
+    "circRNA": "hsa_circ_0072410",
+    "score": 0.006413285154849291
+  },
+  {
+    "disease": "Breast cancer",
+    "circRNA": "circRNA7673",
+    "score": 0.005704703740775585
+  },
+  {
+    "disease": "Breast cancer",
+    "circRNA": "hsa_circ_0057093",
+    "score": 0.004793877247720957
+  },
+  {
+    "disease": "Breast cancer",
+    "circRNA": "circC3P1",
+    "score": 0.002888527233153582
+  },
+  {
+    "disease": "Breast cancer",
+    "circRNA": "Chr5: 158368701",
+    "score": 0.002750036539509892
+  },
+  {
+    "disease": "Breast cancer",
+    "circRNA": "circARHGAP5",
+    "score": 0.002650218084454536
+  },
+  {
+    "disease": "Breast cancer",
+    "circRNA": "circRNA8506",
+    "score": 0.002386459847912192
+  },
+  {
+    "disease": "Breast cancer",
+    "circRNA": "hsa_circ_0030569",
+    "score": 0.002322450978681445
+  },
+  {
+    "disease": "Breast cancer",
+    "circRNA": "hsa_circ_0067934",
+    "score": 0.002088475273922086
+  },
+  {
+    "disease": "Breast cancer",
+    "circRNA": "hsa_circ_0008844",
+    "score": 0.00202097580768168
+  },
+  {
+    "disease": "Breast cancer",
+    "circRNA": "hsa_circ_0000414",
+    "score": 0.00202056230045855
+  },
+  {
+    "disease": "Breast cancer",
+    "circRNA": "hsa_circ_0068489",
+    "score": 0.001956152729690075
+  },
+  {
+    "disease": "Breast cancer",
+    "circRNA": "hsa_circ_0040081",
+    "score": 0.001954235136508942
+  },
+  {
+    "disease": "Breast cancer",
+    "circRNA": "Circ_CORO1C",
+    "score": 0.001731484429910779
+  },
+  {
+    "disease": "Breast cancer",
+    "circRNA": "Circ_SAFB2",
+    "score": 0.00162848923355341
+  },
+  {
+    "disease": "Breast cancer",
+    "circRNA": "hsa_circRNA_103307",
+    "score": 0.001335928216576576
+  },
+  {
+    "disease": "Breast cancer",
+    "circRNA": "hsa_circ_0064557",
+    "score": 0.001335928216576576
+  },
+  {
+    "disease": "Breast cancer",
+    "circRNA": "hsa_circRNA_001959",
+    "score": 0.001277752453461289
+  },
+  {
+    "disease": "Breast cancer",
+    "circRNA": "circDLGAP4",
+    "score": 0.001123311929404736
+  },
+  {
+    "disease": "Breast cancer",
+    "circRNA": "hsa_circ_101555",
+    "score": 0.000977394636720419
+  },
+  {
+    "disease": "Breast cancer",
+    "circRNA": "hsa_circ_0001955",
+    "score": 0.000977394636720419
+  },
+  {
+    "disease": "Breast cancer",
+    "circRNA": "hsa_circ_101222",
+    "score": 0.000950246409047395
+  },
+  {
+    "disease": "Breast cancer",
+    "circRNA": "hsa_circ_0029601",
+    "score": 0.000950246409047395
+  },
+  {
+    "disease": "Breast cancer",
+    "circRNA": "hsa_circRNA_104348",
+    "score": 0.0006855953251942992
+  },
+  {
+    "disease": "Breast cancer",
+    "circRNA": "hsa_circ_0079891",
+    "score": 0.0006855953251942992
+  },
+  {
+    "disease": "Breast cancer",
+    "circRNA": "hsa_circ_0014717",
+    "score": 0.0004879978368990123
+  },
+  {
+    "disease": "Breast cancer",
+    "circRNA": "hsa_circ_0061893",
+    "score": 0.0004574977792799473
+  },
+  {
+    "disease": "Breast cancer",
+    "circRNA": "GSDMB ecircRNA",
+    "score": 0.0004175569338258356
+  },
+  {
+    "disease": "Breast cancer",
+    "circRNA": "hsa_circ_0106803",
+    "score": 0.0004175569338258356
+  },
+  {
+    "disease": "Breast cancer",
+    "circRNA": "circRTN4",
+    "score": 0.0003779451362788677
+  },
+  {
+    "disease": "Breast cancer",
+    "circRNA": "hsa_circ_0008509",
+    "score": 0.0003515692660585046
+  },
+  {
+    "disease": "Breast cancer",
+    "circRNA": "hsa_circ_0070963",
+    "score": 0.0002364399406360462
+  },
+  {
+    "disease": "Breast cancer",
+    "circRNA": "circRNA0003906",
+    "score": 0.0001487284025643021
+  },
+  {
+    "disease": "Breast cancer",
+    "circRNA": "hsa_circ_0001564",
+    "score": 0.0001305231271544471
+  },
+  {
+    "disease": "Breast cancer",
+    "circRNA": "GSDMB ecircRNA",
+    "score": 0.000002965111661978881
+  },
+  {
+    "disease": "Breast cancer",
+    "circRNA": "hsa_circ_0106803",
+    "score": 0.000002965111661978881
+  },
+  {
+    "disease": "Hepatocellular carcinoma",
+    "circRNA": "Cir-ITCH",
+    "score": 0.9981326460838318
+  },
+  {
+    "disease": "Hepatocellular carcinoma",
+    "circRNA": "hsa_circ_0001141",
+    "score": 0.9981326460838318
+  },
+  {
+    "disease": "Hepatocellular carcinoma",
+    "circRNA": "hsa_circ_001763",
+    "score": 0.9981326460838318
+  },
+  {
+    "disease": "Hepatocellular carcinoma",
+    "circRNA": "hsa_circ_0001649",
+    "score": 0.9978961944580078
+  },
+  {
+    "disease": "Hepatocellular carcinoma",
+    "circRNA": "circMTO1",
+    "score": 0.9967071413993835
+  },
+  {
+    "disease": "Hepatocellular carcinoma",
+    "circRNA": "hsa_circRNA_0007874",
+    "score": 0.9967071413993835
+  },
+  {
+    "disease": "Hepatocellular carcinoma",
+    "circRNA": "hsa_circRNA_104135",
+    "score": 0.9967071413993835
+  },
+  {
+    "disease": "Hepatocellular carcinoma",
+    "circRNA": "CDR1as",
+    "score": 0.9941675662994385
+  },
+  {
+    "disease": "Hepatocellular carcinoma",
+    "circRNA": "ciRS-7",
+    "score": 0.9941675662994385
+  },
+  {
+    "disease": "Hepatocellular carcinoma",
+    "circRNA": "hsa_circ_0001946",
+    "score": 0.9941675662994385
+  },
+  {
+    "disease": "Hepatocellular carcinoma",
+    "circRNA": "circZKSCAN1",
+    "score": 0.9940311312675476
+  },
+  {
+    "disease": "Hepatocellular carcinoma",
+    "circRNA": "hsa_circ_0001727",
+    "score": 0.9940311312675476
+  },
+  {
+    "disease": "Hepatocellular carcinoma",
+    "circRNA": "Circ_CORO1C",
+    "score": 0.9931331276893616
+  },
+  {
+    "disease": "Hepatocellular carcinoma",
+    "circRNA": "hsa_circ_0067531",
+    "score": 0.9931261539459229
+  },
+  {
+    "disease": "Hepatocellular carcinoma",
+    "circRNA": "hsa_circ_0005986",
+    "score": 0.9921799898147583
+  },
+  {
+    "disease": "Hepatocellular carcinoma",
+    "circRNA": "hsa_circ_0035381",
+    "score": 0.991692066192627
+  },
+  {
+    "disease": "Hepatocellular carcinoma",
+    "circRNA": "hsa_circRNA_100338",
+    "score": 0.9905533194541931
+  },
+  {
+    "disease": "Hepatocellular carcinoma",
+    "circRNA": "circSNX27",
+    "score": 0.9905533194541931
+  },
+  {
+    "disease": "Hepatocellular carcinoma",
+    "circRNA": "hsa_circRNA_104075",
+    "score": 0.98819899559021
+  },
+  {
+    "disease": "Hepatocellular carcinoma",
+    "circRNA": "hsa_circ_0067934",
+    "score": 0.987794041633606
+  },
+  {
+    "disease": "Hepatocellular carcinoma",
+    "circRNA": "hsa_circRNA 102049",
+    "score": 0.9840103983879089
+  },
+  {
+    "disease": "Hepatocellular carcinoma",
+    "circRNA": "hsa_circ_0071896",
+    "score": 0.978609025478363
+  },
+  {
+    "disease": "Hepatocellular carcinoma",
+    "circRNA": "circSMARCA5",
+    "score": 0.9781306385993958
+  },
+  {
+    "disease": "Hepatocellular carcinoma",
+    "circRNA": "hsa_circ_0001445",
+    "score": 0.9781306385993958
+  },
+  {
+    "disease": "Hepatocellular carcinoma",
+    "circRNA": "CircARSP91",
+    "score": 0.977881359100342
+  },
+  {
+    "disease": "Hepatocellular carcinoma",
+    "circRNA": "hsa_circ_0085154",
+    "score": 0.977881359100342
+  },
+  {
+    "disease": "Hepatocellular carcinoma",
+    "circRNA": "circC3P1",
+    "score": 0.9772987961769104
+  },
+  {
+    "disease": "Hepatocellular carcinoma",
+    "circRNA": "hsa_circ_0000172",
+    "score": 0.9667205214500427
+  },
+  {
+    "disease": "Hepatocellular carcinoma",
+    "circRNA": "hsa_circ_0001212",
+    "score": 0.9648428559303284
+  },
+  {
+    "disease": "Hepatocellular carcinoma",
+    "circRNA": "hsa_circ_0001313",
+    "score": 0.9615795016288757
+  },
+  {
+    "disease": "Hepatocellular carcinoma",
+    "circRNA": "circCCDC66",
+    "score": 0.9615795016288757
+  },
+  {
+    "disease": "Hepatocellular carcinoma",
+    "circRNA": "hsa_circ_0003570",
+    "score": 0.9580123424530029
+  },
+  {
+    "disease": "Hepatocellular carcinoma",
+    "circRNA": "hsa_circ_0078710",
+    "score": 0.9578216671943665
+  },
+  {
+    "disease": "Hepatocellular carcinoma",
+    "circRNA": "hsa_circ_0004018",
+    "score": 0.9573063850402832
+  },
+  {
+    "disease": "Hepatocellular carcinoma",
+    "circRNA": "hsa_circ_0000284",
+    "score": 0.9562346935272217
+  },
+  {
+    "disease": "Hepatocellular carcinoma",
+    "circRNA": "circHIPK3",
+    "score": 0.9562346935272217
+  },
+  {
+    "disease": "Hepatocellular carcinoma",
+    "circRNA": "hsa_circ_0000977",
+    "score": 0.9557647705078125
+  },
+  {
+    "disease": "Hepatocellular carcinoma",
+    "circRNA": "hsa_circ_0005075",
+    "score": 0.9403778910636902
+  },
+  {
+    "disease": "Hepatocellular carcinoma",
+    "circRNA": "hsa_circ_0072359",
+    "score": 0.935890257358551
+  },
+  {
+    "disease": "Hepatocellular carcinoma",
+    "circRNA": "hsa_circ_0000520",
+    "score": 0.9296805262565613
+  },
+  {
+    "disease": "Hepatocellular carcinoma",
+    "circRNA": "hsa_circRNA_100395",
+    "score": 0.896354937553406
+  },
+  {
+    "disease": "Hepatocellular carcinoma",
+    "circRNA": "hsa_circ_0015278",
+    "score": 0.896354937553406
+  },
+  {
+    "disease": "Hepatocellular carcinoma",
+    "circRNA": "hsa_circRNA_001937",
+    "score": 0.89569571018219
+  },
+  {
+    "disease": "Hepatocellular carcinoma",
+    "circRNA": "hsa_circRNA_051239",
+    "score": 0.8955118656158447
+  },
+  {
+    "disease": "Hepatocellular carcinoma",
+    "circRNA": "hsa_circ_0051239",
+    "score": 0.8955118656158447
+  },
+  {
+    "disease": "Hepatocellular carcinoma",
+    "circRNA": "circRNA_000839",
+    "score": 0.87051922082901
+  },
+  {
+    "disease": "Hepatocellular carcinoma",
+    "circRNA": "hsa_circ_0001666",
+    "score": 0.8536580801010132
+  },
+  {
+    "disease": "Hepatocellular carcinoma",
+    "circRNA": "hsa_circRNA_103809",
+    "score": 0.8420406579971313
+  },
+  {
+    "disease": "Hepatocellular carcinoma",
+    "circRNA": "circRNA BCRC4",
+    "score": 0.4143058061599731
+  },
+  {
+    "disease": "Hepatocellular carcinoma",
+    "circRNA": "hsa_circ_001598",
+    "score": 0.4143058061599731
+  },
+  {
+    "disease": "Hepatocellular carcinoma",
+    "circRNA": "hsa_circ_0001577",
+    "score": 0.4143058061599731
+  },
+  {
+    "disease": "Hepatocellular carcinoma",
+    "circRNA": "circRNA4628",
+    "score": 0.1563203483819962
+  },
+  {
+    "disease": "Hepatocellular carcinoma",
+    "circRNA": "hsa_circ_0011021",
+    "score": 0.05372520163655281
+  },
+  {
+    "disease": "Hepatocellular carcinoma",
+    "circRNA": "chr4:103501692-103504114",
+    "score": 0.002813450060784817
+  }
+]
